@@ -1,4 +1,4 @@
-# The League Lab Project aims at empowering low-league football clubs on data and statistics !
+# The League Lab Project empowers low-league football clubs through data and statistics !
 
 ⚽ From scrapping to machine learning, univariate and bivariate analysis, here is everything you need to know about data and statistics in League One and League Two English football !
 
